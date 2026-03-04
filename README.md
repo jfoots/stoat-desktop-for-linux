@@ -89,8 +89,8 @@ All builds are reproducible and automated.
 ```
 dist/
   rpm/
-    fedora-44/
     fedora-43/
+    fedora-42/
     epel-9/
   deb/
     bookworm/

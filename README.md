@@ -1,5 +1,7 @@
 # 📦 Stoat Desktop — Community Linux Packages
 
+![GitHub release](https://img.shields.io/github/v/release/jfoots/stoat-desktop-for-linux?display_name=tag&logo=github)
+![GitHub downloads](https://img.shields.io/github/downloads/jfoots/stoat-desktop-for-linux/total?logo=github)
 ![Fedora](https://img.shields.io/badge/Fedora-44%20%7C%2043%20%7C%2042-294172?logo=fedora&logoColor=white)
 ![RHEL / EPEL](https://img.shields.io/badge/EPEL-9-8A2BE2?logo=redhat&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch-rolling-1793D1?logo=arch-linux&logoColor=white)
@@ -14,11 +16,11 @@ This repository hosts **community-built Linux packages** for **Stoat Chat Deskto
 
 Supported platforms:
 
-- 🟥 Fedora
-- 🟥 RHEL / EPEL 9
-- 🟦 Arch Linux
-- 🟨 Debian
-- 🟧 Ubuntu
+- 🟥 Fedora  
+- 🟥 RHEL / EPEL 9  
+- 🟦 Arch Linux  
+- 🟨 Debian  
+- 🟧 Ubuntu  
 - Multi-arch: `x86_64 / amd64` and `aarch64 / arm64`
 
 Upstream project:  
@@ -73,10 +75,10 @@ sudo apt-get -f install
 
 Packages are built in clean environments using:
 
-- `mock` for RPM-based systems
-- `dpkg-buildpackage` for Debian-based systems
-- `makepkg` for Arch Linux
-- Multi-architecture containerized builds
+- `mock` for RPM-based systems  
+- `dpkg-buildpackage` for Debian-based systems  
+- `makepkg` for Arch Linux  
+- Multi-architecture containerized builds  
 
 All builds are reproducible and automated.
 
@@ -96,6 +98,7 @@ dist/
   arch/
     x86_64/
 ```
+
 ---
 
 # 🔄 Updating
@@ -130,8 +133,3 @@ This repository provides redistribution builds of the official upstream desktop 
 # ⚠ Disclaimer
 
 This is a community packaging effort and is not an official distribution channel of the Stoat project.
-
-
----
-
-Because Linux nerds love their distros 😄

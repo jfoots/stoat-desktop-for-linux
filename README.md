@@ -2,7 +2,7 @@
 
 ![GitHub release](https://img.shields.io/github/v/release/jfoots/stoat-desktop-for-linux?display_name=tag&logo=github)
 ![GitHub downloads](https://img.shields.io/github/downloads/jfoots/stoat-desktop-for-linux/total?logo=github)
-![Fedora](https://img.shields.io/badge/Fedora-44%20%7C%2043%20%7C%2042-294172?logo=fedora&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-43%20%7C%2042-294172?logo=fedora&logoColor=white)
 ![RHEL / EPEL](https://img.shields.io/badge/EPEL-9-8A2BE2?logo=redhat&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch-rolling-1793D1?logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-bookworm-A81D33?logo=debian&logoColor=white)

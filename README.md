@@ -1,6 +1,6 @@
 # 📦 Stoat Desktop — Community Linux Packages
 
-![GitHub release](https://img.shields.io/github/v/release/jfoots/stoat-desktop-for-linux?display_name=tag&logo=github)
+![GitHub release](https://img.shields.io/github/v1.3.0/release/jfoots/stoat-desktop-for-linux?display_name=tag&logo=github)
 ![GitHub downloads](https://img.shields.io/github/downloads/jfoots/stoat-desktop-for-linux/total?logo=github)
 ![Fedora](https://img.shields.io/badge/Fedora-43%20%7C%2042-294172?logo=fedora&logoColor=white)
 ![RHEL / EPEL](https://img.shields.io/badge/EPEL-9-8A2BE2?logo=redhat&logoColor=white)
